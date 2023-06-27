@@ -1,4 +1,4 @@
-<p align="center"><img src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="500" /> </p>
+<p align="center"><img src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="250" /> </p>
 <h1 align="center">Hi 👋, I'm Jahnavi Tiwari</h1>
 <h3 align="center">A passionate MERN stack developer and proficient in DSA and CP</h3>
 
