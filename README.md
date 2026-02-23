@@ -12,15 +12,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahnavitiwari789" alt="jahnavitiwari789" /></a> </p>
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently project related to **Computer vision**
 
-- 🌱 I’m currently learning **MERN stack,Python frameworks**
+- 🌱 I’m currently learning **Deep learning, Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Computer Vision,Machine Learning Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jahnavitiwari789](https://github.com/jahnavitiwari789)
 
-- 💬 Ask me about **C++,Abode Photoshop,Tailwind CSS,JS,OOPs concept,DBMS,Compiler Design**
+- 💬 Ask me about **C++,Computer Vision,Algorithms, Machine Learning,Deep learning,OOPs concept,DBMS,Compiler Design**
 
 -  📫 [How to reach me](https://www.linkedin.com/in/jahnavi-tiwari-a99972204/)
 - ⚡ Fun fact **I am running behind techs but they are faster than me...**
